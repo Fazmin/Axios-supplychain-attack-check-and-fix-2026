@@ -3,13 +3,12 @@
 ================================================================================
 
 I work on a lot of Node.js projects and when I heard about the Axios supply
-chain attack I immediately needed a way to check all of my projects and my
+chain attack I needed a way to check all of my projects and my
 whole machine for any signs of compromise. Going through each project one by
 one wasn't realistic, so I put together these scripts to do the heavy lifting
 for me scan everything, flag anything bad, and fix it on the spot.
 
-I figured if I needed this, other developers probably do too. Feel free to use
-it, share it, or adapt it however you need.
+Feel free to use it, share it, or adapt it however you need.
 
 
 NEWS Links
