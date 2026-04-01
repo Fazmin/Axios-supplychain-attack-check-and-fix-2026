@@ -201,7 +201,7 @@ function Test-ProjectForAxiosAttack {
 
 Write-Host ""
 Write-Host "============================================" -ForegroundColor Cyan
-Write-Host "  Axios Supply Chain Attack - Check & Fix" -ForegroundColor Cyan
+Write-Host "  Axios Supply Chain Attack - Check `& Fix" -ForegroundColor Cyan
 Write-Host "============================================" -ForegroundColor Cyan
 
 # ── Resolve safe version ───────────────────────────────────────────────────
